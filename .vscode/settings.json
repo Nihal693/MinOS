@@ -1,0 +1,15 @@
+{
+    "terminal.integrated.fontSize": 18,
+    "terminal.integrated.fontWeight": "normal",
+    "terminal.integrated.tabs.defaultColor": null,
+    "terminal.integrated.accessibleViewFocusOnCommandExecution": false,
+    "workbench.colorCustomizations": {
+        "terminal.background":"#000000",
+        "terminal.ansiBlue": "#3399FF",
+        "terminal.ansiGreen": "#00FF66",
+        "terminal.ansiRed": "#da4607",
+        "terminal.ansiMagenta": "#9466d4",
+        "terminal.ansiCyan": "#8BE9FD",
+        "terminal.ansiYellow": "#F1FA8C"
+    }
+}
